@@ -8,8 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
-
-    
     
     @IBOutlet weak var textField1: UITextField!
     let pickerData = ["Test 11", "Test 12", "New Test 13"]
